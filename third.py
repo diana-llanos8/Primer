@@ -1,1 +1,1 @@
-print("Soy tercero")
+print(" Eres puto")
